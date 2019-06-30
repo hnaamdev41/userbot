@@ -16,7 +16,7 @@ from userbot import (COUNT_PM, HELPER, LOGGER, LOGGER_GROUP,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("This is bot replying you, you are not permitted to PM. Wait for Ali to approve you! You will be blocked and reported if sent 4 more messages without permission.")
+UNAPPROVED_MSG = ("This is bot replying you, you are not permitted to PM. Wait for Himanshu to approve you! You will be blocked and reported if sent 4 more messages without permission.")
 # =================================================================
 
 
